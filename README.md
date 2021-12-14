@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a student in Beijing at BUPT
-- 👀 I’m interested in the signal processing and computer vision
-- 🌱 I’m currently learning ML and pytorch
+- 👀 I’m interested in the Signal Processing and Computer Vision
+- 🌱 I’m currently learning ML and Pytorch
 - 💞️ I’m looking to learning partner on ML
 - 📫 How to reach me: zzhang@bupt.edu.cn
 
